@@ -1,0 +1,9 @@
+{
+  "name": "SignBridge",
+  "description": "An elegant, high-end dashboard for real-time sensor-based Sign Language translation, featuring adaptive context engines and predictive communication tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
