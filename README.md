@@ -165,10 +165,9 @@ The dashboard provides:
 
 ```
 Images/
-├── Prototype.jpg
-├── Dashboard.png
-├── Working.jpg
-└── Circuit_Diagram.png
+├── ![Dashboard](images/dashboard2.png)
+├── ![hardware](images/hardware components.png)
+├── ![workflow](images/workflow.png)
 ```
 # 📹 Demo
 
