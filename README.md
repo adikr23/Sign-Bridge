@@ -37,7 +37,7 @@ The **Sign Language Translation Gloves** address this problem by detecting finge
 ---
 
 # 🛠 Hardware Components
-
+```
  -Component                               -Quantity 
 -|-----------------------------|--------------------|
 -| ESP32 Development Board                 | 1 |
@@ -47,7 +47,7 @@ The **Sign Language Translation Gloves** address this problem by detecting finge
 -| Li-ion Battery                          | 1 |
 -| Connecting Wires                    | As Required |
 -| Breadboard/PCB                          | 1 |
-
+```
 ---
 
 # 💻 Software Used
@@ -163,14 +163,12 @@ The dashboard provides:
 
 # 📸 Project Images
 
-```
 ## Project Images
 
 ![Dashboard](images/dashboard2.png)  
-![Hardware](images/hardware components.png)  
+![Hardware](images/HardwareComponents.png)  
 ![Workflow](images/workflow.png)
 
-```
 # 📹 Demo
 
 https://1drv.ms/v/c/e697cffa4919490f/IQDQ62Pk6RQ3Ra34xLtu9-n5AekCwODxfg1NJd_27Z8mjRo?e=hQ3tUK
