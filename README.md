@@ -165,7 +165,9 @@ The dashboard provides:
 
 ## Project Images
 
+![Dashboard](images/dashboard1.png)
 ![Dashboard](images/dashboard2.png)  
+![Dashboard](images/dashboard3.png)
 ![Hardware](images/HardwareComponents.png)  
 ![Workflow](images/workflow.png)
 
