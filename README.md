@@ -164,10 +164,12 @@ The dashboard provides:
 # 📸 Project Images
 
 ```
-Images/
-![Dashboard](images/dashboard2.png)
-![hardware](images/hardware components.png)
-![workflow](images/workflow.png)
+## Project Images
+
+![Dashboard](images/dashboard2.png)  
+![Hardware](images/hardware components.png)  
+![Workflow](images/workflow.png)
+
 ```
 # 📹 Demo
 
