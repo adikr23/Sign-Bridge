@@ -38,15 +38,15 @@ The **Sign Language Translation Gloves** address this problem by detecting finge
 
 # 🛠 Hardware Components
 
- Component                               Quantity 
-|-----------------------------|--------------------|
-| ESP32 Development Board                 | 1 |
-| Flex Sensors                            | 5 |
-| MPU6050 Accelerometer & Gyroscope       | 1 |
-| Gloves                                | 1 Pair |
-| Li-ion Battery                          | 1 |
-| Connecting Wires                    | As Required |
-| Breadboard/PCB                          | 1 |
+ -Component                               -Quantity 
+-|-----------------------------|--------------------|
+-| ESP32 Development Board                 | 1 |
+-| Flex Sensors                            | 5 |
+-| MPU6050 Accelerometer & Gyroscope       | 1 |
+-| Gloves                                | 1 Pair |
+-| Li-ion Battery                          | 1 |
+-| Connecting Wires                    | As Required |
+-| Breadboard/PCB                          | 1 |
 
 ---
 
@@ -146,7 +146,7 @@ Sign-Language-Translation-Gloves/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Sign-Language-Translation-Gloves.git
+git clone https://github.com/adikr23/Sign-Bridge.git
 ```
 
 # 🌐 Web Dashboard
@@ -170,13 +170,6 @@ Images/
 ├── Working.jpg
 └── Circuit_Diagram.png
 ```
-
-Example:
-
-![Prototype](Images/Prototype.jpg)
-
----
-
 # 📹 Demo
 
 https://1drv.ms/v/c/e697cffa4919490f/IQDQ62Pk6RQ3Ra34xLtu9-n5AekCwODxfg1NJd_27Z8mjRo?e=hQ3tUK
