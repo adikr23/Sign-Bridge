@@ -165,9 +165,9 @@ The dashboard provides:
 
 ```
 Images/
-├── ![Dashboard](images/dashboard2.png)
-├── ![hardware](images/hardware components.png)
-├── ![workflow](images/workflow.png)
+![Dashboard](images/dashboard2.png)
+![hardware](images/hardware components.png)
+![workflow](images/workflow.png)
 ```
 # 📹 Demo
 
