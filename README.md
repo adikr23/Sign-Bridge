@@ -109,38 +109,6 @@ The **Sign Language Translation Gloves** address this problem by detecting finge
 
 ---
 
-# 📂 Project Structure
-
-```
-Sign-Language-Translation-Gloves/
-│
-├── ESP32_Code/
-│   ├── SignLanguageGlove.ino
-│
-├── Web_Dashboard/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│
-├── Hardware/
-│   ├── Circuit_Diagram.png
-│   ├── Connections.pdf
-│
-├── Images/
-│   ├── Prototype.jpg
-│   ├── Dashboard.png
-│   ├── Working.jpg
-│
-├── Documentation/
-│   ├── Project_Report.pdf
-│   ├── Presentation.pptx
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 # 🚀 Installation
 
 ### Clone Repository
